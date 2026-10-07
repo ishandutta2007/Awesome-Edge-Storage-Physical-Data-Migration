@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Edge-Storage-Physical-Data-Migration"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Edge-Storage-Physical-Data-Migration?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Edge-Storage-Physical-Data-Migration"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Edge-Storage-Physical-Data-Migration?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edge-Storage-Physical-Data-Migration/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Edge-Storage-Physical-Data-Migration?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edge-Storage-Physical-Data-Migration/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Edge-Storage-Physical-Data-Migration?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,49 +72,49 @@ Welcome to the ultimate curated resource for **edge storage appliances**, **phys
 
 ## 🔓 Open-Source GitHub Projects 💻
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Syncthing](https://github.com/syncthing/syncthing)** [![Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
-  **Continuous peer-to-peer file synchronization**, MPL-2.0 licensed. **60K+ GitHub stars** — **decentralized, no central server** . **TLS encryption, versioning, and conflict resolution** . **The most popular open-source P2P sync tool** . 📂
+  **Continuous peer-to-peer file synchronization**, MPL-2.0 licensed. **60K+ GitHub_Stars** — **decentralized, no central server** . **TLS encryption, versioning, and conflict resolution** . **The most popular open-source P2P sync tool** . 📂
 
 - **[Rclone](https://github.com/rclone/rclone)** [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
-  **The Swiss army knife of cloud storage sync**, MIT licensed. **50K+ GitHub stars** — **supports 70+ cloud storage providers** with a unified CLI . **Sync, copy, move, mount (FUSE), and serve (HTTP/WebDAV/FTP)** . **Bandwidth limiting, checksum verification, and incremental transfers** . **The de facto standard for open-source data migration** . 🔄
+  **The Swiss army knife of cloud storage sync**, MIT licensed. **50K+ GitHub_Stars** — **supports 70+ cloud storage providers** with a unified CLI . **Sync, copy, move, mount (FUSE), and serve (HTTP/WebDAV/FTP)** . **Bandwidth limiting, checksum verification, and incremental transfers** . **The de facto standard for open-source data migration** . 🔄
 
 - **[Restic](https://github.com/restic/restic)** [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
-  **Fast, secure, efficient backup program**, BSD-2-Clause licensed. **28K+ GitHub stars** — **single binary with no dependencies** . **Supports S3, GCS, Azure, B2, SFTP, REST, and local storage** . **Deduplication, encryption, and incremental snapshots** . **The standard for open-source backup and migration** . ⚡
+  **Fast, secure, efficient backup program**, BSD-2-Clause licensed. **28K+ GitHub_Stars** — **single binary with no dependencies** . **Supports S3, GCS, Azure, B2, SFTP, REST, and local storage** . **Deduplication, encryption, and incremental snapshots** . **The standard for open-source backup and migration** . ⚡
 
 - **[SeaweedFS](https://github.com/seaweedfs/seaweedfs)** [![Stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=social&color=white)](https://github.com/seaweedfs/seaweedfs/stargazers)  
-  **Fast distributed storage system for blobs, objects, and files**, Apache-2.0 licensed. **24K+ GitHub stars** — **handles billions of small files efficiently with POSIX & S3 API support** . **Built-in active-active data replication and tiering to cloud storage** . **Ideal for edge-to-cloud data migration** . 🌊
+  **Fast distributed storage system for blobs, objects, and files**, Apache-2.0 licensed. **24K+ GitHub_Stars** — **handles billions of small files efficiently with POSIX & S3 API support** . **Built-in active-active data replication and tiering to cloud storage** . **Ideal for edge-to-cloud data migration** . 🌊
 
 - **[MinIO](https://github.com/minio/minio)** [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers)  
-  **High-performance Kubernetes-native object storage**, AGPL-3.0 licensed. **22K+ GitHub stars** — **S3 API compatible object storage built for cloud-native data migration and edge caching** . **Supports active-active multi-site replication** . ⚡
+  **High-performance Kubernetes-native object storage**, AGPL-3.0 licensed. **22K+ GitHub_Stars** — **S3 API compatible object storage built for cloud-native data migration and edge caching** . **Supports active-active multi-site replication** . ⚡
 
 - **[BorgBackup](https://github.com/borgbackup/borg)** [![Stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers)  
-  **Deduplicating backup and sync**, BSD-3-Clause licensed. **12K+ GitHub stars** — **efficient deduplication and compression** . **Encrypted, authenticated backups** . **Mountable archives via FUSE** . **The most efficient deduplicating backup tool** . 🗜️
+  **Deduplicating backup and sync**, BSD-3-Clause licensed. **12K+ GitHub_Stars** — **efficient deduplication and compression** . **Encrypted, authenticated backups** . **Mountable archives via FUSE** . **The most efficient deduplicating backup tool** . 🗜️
 
 - **[Duplicati](https://github.com/duplicati/duplicati)** [![Stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers)  
-  **Encrypted backup to cloud storage**, LGPL-2.1 licensed. **11K+ GitHub stars** — **stores encrypted, incremental, compressed backups** to 20+ cloud providers . **AES-256 encryption, scheduled backups, and web-based UI** . 🔐
+  **Encrypted backup to cloud storage**, LGPL-2.1 licensed. **11K+ GitHub_Stars** — **stores encrypted, incremental, compressed backups** to 20+ cloud providers . **AES-256 encryption, scheduled backups, and web-based UI** . 🔐
 
 - **[OpenZFS](https://github.com/openzfs/zfs)** [![Stars](https://img.shields.io/github/stars/openzfs/zfs?style=social&color=white)](https://github.com/openzfs/zfs/stargazers)  
-  **Advanced file system and volume manager**, CDDL-1.0 licensed. **11K+ GitHub stars** — **data integrity, snapshots, and replication** . **`zfs send` and `zfs receive` for efficient physical migration** . **The most robust open-source storage platform** . 🗄️
+  **Advanced file system and volume manager**, CDDL-1.0 licensed. **11K+ GitHub_Stars** — **data integrity, snapshots, and replication** . **`zfs send` and `zfs receive` for efficient physical migration** . **The most robust open-source storage platform** . 🗄️
 
 - **[Kopia](https://github.com/kopia/kopia)** [![Stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers)  
-  **Fast and secure backup/sync tool**, Apache-2.0 licensed. **8K+ GitHub stars** — **client-side end-to-end encryption, deduplication, and compression** . **Snapshot-based with policy-driven retention** . **Supports cloud, NAS, and local storage** . 🛡️
+  **Fast and secure backup/sync tool**, Apache-2.0 licensed. **8K+ GitHub_Stars** — **client-side end-to-end encryption, deduplication, and compression** . **Snapshot-based with policy-driven retention** . **Supports cloud, NAS, and local storage** . 🛡️
 
 - **[restic WebUI (Backrest)](https://github.com/garethgeorge/backrest)** [![Stars](https://img.shields.io/github/stars/garethgeorge/backrest?style=social&color=white)](https://github.com/garethgeorge/backrest/stargazers)  
-  **Web UI and orchestrator for restic backup**, GPL-3.0 licensed. **4K+ GitHub stars** — **web-based management for restic** . **Scheduled backups, retention policies, and multi-repo support** . **The easiest way to use restic** . 🌐
+  **Web UI and orchestrator for restic backup**, GPL-3.0 licensed. **4K+ GitHub_Stars** — **web-based management for restic** . **Scheduled backups, retention policies, and multi-repo support** . **The easiest way to use restic** . 🌐
 
 - **[rsync](https://github.com/RsyncProject/rsync)** [![Stars](https://img.shields.io/github/stars/RsyncProject/rsync?style=social&color=white)](https://github.com/RsyncProject/rsync/stargazers)  
-  **The classic incremental file transfer tool**, GPL-3.0 licensed. **3K+ GitHub stars** — **foundational delta-transfer algorithm** — **only sends differences between source and destination** . **Nearly 30 years of production use** . 📦
+  **The classic incremental file transfer tool**, GPL-3.0 licensed. **3K+ GitHub_Stars** — **foundational delta-transfer algorithm** — **only sends differences between source and destination** . **Nearly 30 years of production use** . 📦
 
 - **[Unison](https://github.com/bcpierce00/unison)** [![Stars](https://img.shields.io/github/stars/bcpierce00/unison?style=social&color=white)](https://github.com/bcpierce00/unison/stargazers)  
-  **Bi-directional file synchronization**, GPL-3.0 licensed. **2K+ GitHub stars** — **synchronizes in both directions with conflict detection** . **Works across platforms** . **Handles network interruptions gracefully** . 🔁
+  **Bi-directional file synchronization**, GPL-3.0 licensed. **2K+ GitHub_Stars** — **synchronizes in both directions with conflict detection** . **Works across platforms** . **Handles network interruptions gracefully** . 🔁
 
 - **[Chorus](https://github.com/clyso/chorus)** [![Stars](https://img.shields.io/github/stars/clyso/chorus?style=social&color=white)](https://github.com/clyso/chorus/stargazers)  
-  **Distributed, vendor-agnostic object storage migration and routing**, Apache-2.0 licensed. **1K+ GitHub stars** — **enables faster transfers between S3-compatible storages** using multiple machines . **Resumable transfers with checkpointing** . **Reduces migration downtime to zero** . 🎯
+  **Distributed, vendor-agnostic object storage migration and routing**, Apache-2.0 licensed. **1K+ GitHub_Stars** — **enables faster transfers between S3-compatible storages** using multiple machines . **Resumable transfers with checkpointing** . **Reduces migration downtime to zero** . 🎯
 
 - **[s3ql](https://github.com/s3ql/s3ql)** [![Stars](https://img.shields.io/github/stars/s3ql/s3ql?style=social&color=white)](https://github.com/s3ql/s3ql/stargazers)  
-  **Full-featured file system for online data storage**, GPL-3.0 licensed. **1K+ GitHub stars** — **stores all data online** using S3, Google Storage, or OpenStack . **Compression, encryption, data de-duplication, immutable trees, and snapshotting** . 💾
+  **Full-featured file system for online data storage**, GPL-3.0 licensed. **1K+ GitHub_Stars** — **stores all data online** using S3, Google Storage, or OpenStack . **Compression, encryption, data de-duplication, immutable trees, and snapshotting** . 💾
 
 ---
 
@@ -124,7 +124,7 @@ Contributions are welcome! Follow these steps to submit new edge storage platfor
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
